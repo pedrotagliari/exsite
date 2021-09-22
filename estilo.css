@@ -1,0 +1,115 @@
+
+#botaologo{
+    padding-top:  5px;
+    color: rgb(255, 255, 255);
+    background-color: cyan;
+    border-color: cyan;
+    border-radius: 1%;
+    position: center
+}
+#im1{
+    border-radius: none;
+}
+header{
+    padding-top: 5px;
+}
+#botaopesquisar{
+    border-color: cyan;
+    color: cyan;
+}
+
+#botaopesquisar:hover{
+    border-color: cyan;
+    color: rgb(30, 102, 124);
+    background-color: cyan;
+    border-color: rgb(30, 102, 124);;
+}
+
+#botaocard{
+    color: rgb(255, 255, 255);
+    background-color: cyan;
+    border-color: cyan;
+    border-radius: 1%;
+}
+.card-body{
+    background-color:rgb(36, 35, 35);
+    color: white;
+}
+#alert{
+    background-color:rgb(36, 35, 35);
+    color: cyan;
+    border-color: cyan;
+}
+#botaologo:hover{
+    color: rgb(30, 102, 124);
+}
+#botaocard:hover{
+    background-color: rgb(30, 102, 124);
+    border-color:rgb(30, 102, 124);
+}
+.header-1{
+
+    height: 50px;
+    background: rgb(36, 35, 35);
+
+}
+footer {
+    margin-top: 100%;
+    width:100%;
+    float:bottom;
+    background-color:rgb(36, 35, 35);
+    height: 60px;
+    color: cyan;
+    padding-left: 500px;
+    
+    
+}
+
+.logo{
+    width: 1100px;
+    padding-left: 200px;
+}
+.corpo{
+    width: 1100px;
+    padding-left: 200px;
+}
+.col1{
+    width: 450px;
+    text-align: justify;
+    height: 78px;
+    background-color: white;
+}
+.col2{
+    text-align: justify;
+    width: 400px;
+    height: 500px;
+    float: right;
+}
+
+.links {
+    float: right;
+}
+#link3{
+    padding-left: 20px;
+    color:  rgb(0, 255, 255);
+    text-decoration: none;
+}
+#link2{
+    padding-left: 20px;
+    color: rgb(0, 255, 255);
+    text-decoration: none;
+}
+#link1{
+    padding-left: 20px;
+    color: rgb(0, 255, 255);
+    text-decoration: none;
+}
+#link3:hover{
+    color:  rgb(30, 102, 124);
+}
+#link2:hover{
+    color: rgb(30, 102, 124);
+}
+#link1:hover{
+    color: rgb(30, 102, 124);
+}
